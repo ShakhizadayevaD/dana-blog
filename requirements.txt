@@ -54,7 +54,7 @@ netifaces==0.10.4
 network==0.1
 networkx==2.4
 numba==0.46.0
-numpy==1.17.4
+numpy==1.22.0
 oauthlib==3.1.0
 onboard==1.4.1
 opencv-python==4.1.1.26
